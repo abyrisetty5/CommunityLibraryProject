@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body{
+	margin: 0;
+	position: relative;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+.navbar{
+	background-color: #C09F80;
+	color: #76323F;
+}
+.navbar-fixed-top.scrolled {
+	background-color: #D7CEC7 !important;
+    transition: background-color 200ms linear;
+}
